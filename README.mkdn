@@ -1,0 +1,42 @@
+Team Vanir
+===========
+
+<li>Jdkoreclipse: Founder, Lead Dev, Rom Dev, Kernel Dev</li>
+
+<li>SonicXML: Founder, Rom Dev, Kernel Dev</li>
+
+<li>DHO: Rom Dev</li>
+
+<li>PrimeDirective: Rom Dev</li>
+
+<li>Nunyazz: Public Relations</li>
+
+<li>Baldwinguy77: Rom Dev</li>
+
+<li>BuckMarble: Rom Dev</li>
+
+Vanir Bean
+---------------
+Current Version: 8
+
+Changelog
+--------------
+v8: Added Advanced Power menu, gutted out the cmplx tweaks, removed tons of bloatware, kanged jake's gps fix, compressed apps for size, pngopted apps 3 times, coked in VanirUberWipe (rom now wipes on flash)
+
+v7: fixed GPS, fixed booting issue (thanks jake), fixed deepsleep, fixed bluetooth, fixed ERI, added sony Bravia engine, added batt%, added quick glow softkeys, more butter via PrimeDirective's Tsunami script, PNGOPTED and compressed any no-google proprietary apks over 1mb
+
+v5: Addded PopcornScripts and also fixed some little things
+
+v4 RC7: Fixed deep sleep, market issues, and other little issues
+
+v3: Added cmplxth3ory credit DHO, Popcornkernel, fixed wifi, fixed GPS, various optimizations, fixed deep sleep issue , added nano/bash/sysrw/sysrw
+
+v2.1:Fixed wifi (or at east returned it to how it was in v1)
+
+v2: Fixed data, deodexed, fixed reboot problems
+
+v1: Initial release
+
+
+
+
