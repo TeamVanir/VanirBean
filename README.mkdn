@@ -17,10 +17,14 @@ Team Vanir
 
 Vanir Bean
 ---------------
-Current Version: 8
+
+Current Version: 8.0.1.0
 
 Changelog
 --------------
+
+v8.0.1.0: give user a warning about VanirUberWipe, hopefully clean up battery life (cleaned scripts), added imosey.s power.tuna.ko to fix kernel valeus ot setting on boot, added in youtube.apk b/c it wouldnt dl from the market
+
 v8: Added Advanced Power menu, gutted out the cmplx tweaks, removed tons of bloatware, kanged jake's gps fix, compressed apps for size, pngopted apps 3 times, coked in VanirUberWipe (rom now wipes on flash)
 
 v7: fixed GPS, fixed booting issue (thanks jake), fixed deepsleep, fixed bluetooth, fixed ERI, added sony Bravia engine, added batt%, added quick glow softkeys, more butter via PrimeDirective's Tsunami script, PNGOPTED and compressed any no-google proprietary apks over 1mb
